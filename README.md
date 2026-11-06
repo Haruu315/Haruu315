@@ -1,16 +1,20 @@
-## Hi there 👋
+## こんにちは、はるきです 👋
 
-<!--
-**Haruu315/Haruu315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大学2年生です。Webアプリを作りながら勉強しています。
 
-Here are some ideas to get you started:
+- 🌱 いまは **TypeScript** をじっくり勉強中
+- 🛠 学生エンジニアサークル **WINC** でチーム開発（Next.js）
+- 🏸 バドミントンが好き
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 触っている技術
+
+[![skills](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,bun,sqlite,git,github&theme=dark)](https://skillicons.dev)
+
+### 作ったもの
+
+| 名前 | 内容 |
+| --- | --- |
+| [nisa-simulator](https://github.com/Haruu315/nisa-simulator) | NISAの積立をシミュレーションする |
+| [Asset-formation](https://github.com/Haruu315/Asset-formation) | 資産形成の計算 |
+| [todo](https://github.com/Haruu315/todo) | TODOアプリ |
+| [calculator](https://github.com/Haruu315/calculator) | 電卓 |
