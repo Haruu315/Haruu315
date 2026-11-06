@@ -17,5 +17,5 @@
 | --- | --- | --- |
 | [積立投資シミュレーター](https://github.com/Haruu315/Asset-formation) | 毎月の積立額と利回りから将来の資産をグラフで計算（React + Vite） | [開く](https://haruu315.github.io/Asset-formation/) |
 | [積立NISAシミュレーター](https://github.com/Haruu315/nisa-simulator) | 積立NISAの増え方を計算（HTML / CSS / JavaScript） | [開く](https://haruu315.github.io/nisa-simulator/) |
-| [ToDo](https://github.com/Haruu315/todo) | やることを追加・管理するアプリ（JavaScript） | |
-| [計算機](https://github.com/Haruu315/calculator) | ブラウザで動く電卓（HTML） | |
+| [ToDo](https://github.com/Haruu315/todo) | やることを追加・管理するアプリ（JavaScript） | [開く](https://haruu315.github.io/todo/) |
+| [計算機](https://github.com/Haruu315/calculator) | ブラウザで動く電卓（HTML） | [開く](https://haruu315.github.io/calculator/) |
