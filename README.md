@@ -19,7 +19,7 @@
     <td>🎓</td><td>ZEN大学 知能情報社会学部 2年</td>
   </tr>
   <tr>
-    <td>🌱</td><td>いまは <b>TypeScript</b> をじっくり勉強中</td>
+    <td>🌱</td><td>いまは <b>TypeScript</b> 勉強中</td>
   </tr>
   <tr>
     <td>🛠</td><td>学生エンジニアサークル <b>WINC</b> でチーム開発（Next.js）</td>
